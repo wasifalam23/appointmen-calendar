@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/calendar/*"
+  to = "https://slotbooker.netlify.app/:splat"
+  status = 200
