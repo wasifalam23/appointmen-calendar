@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
 	routeRules: {
 		"/**": {
-			proxy: "//https://slotbooker.netlify.app" + "/calendar/**",
+			proxy: "https://slotbooker.netlify.app/calendar/**",
 		},
 	},
 
